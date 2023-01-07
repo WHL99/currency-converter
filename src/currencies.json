@@ -1,0 +1,37 @@
+{
+  "usd": {
+    "name": "US Dollar",
+    "symbol": "$",
+    "code": "USD",
+    "img": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/Strong-US-Dollar-2.jpg",
+    "exchangeRate": 1
+  },
+  "eur": {
+    "name": "Euro",
+    "symbol": "€",
+    "code": "EUR",
+    "img": "https://www.bundesfinanzministerium.de/Content/EN/Bilder/Topics/Europe/eu-fiscal-rules.jpg?__blob=wide&v=3",
+    "exchangeRate": 1.19
+  },
+  "jpy": {
+    "name": "Japanese Yen",
+    "symbol": "¥",
+    "code": "JPY",
+    "img": "https://lp-cms-production.imgix.net/2021-03/shutterstockRF_667925704.jpg",
+    "exchangeRate": 0.009
+  },
+  "twd": {
+    "name": "Taiwan New Dollar",
+    "symbol": "NT$",
+    "code": "TWD",
+    "img": "https://i.imgur.com/UrmpxH0.jpeg",
+    "exchangeRate": 0.015
+  },
+  "gbp": {
+    "name": "Great British Pound",
+    "symbol": "£",
+    "code": "GBP",
+    "img": "https://i.imgur.com/d1cyPsf.jpeg",
+    "exchangeRate": 1.2093
+  }
+}
