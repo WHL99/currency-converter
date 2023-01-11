@@ -1,2 +1,3 @@
 # currency-converter
-Created with CodeSandbox
+Created with CodeSandbox <br/>
+Built with TypeScript and React
